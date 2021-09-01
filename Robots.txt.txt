@@ -1,0 +1,4 @@
+  
+User-Agent: *
+Allow: /
+Sitemap: https://speed.botx.co.in/sitemap.xml
